@@ -1,0 +1,35 @@
+body{
+	background: url('img/wall.jpg');
+	font: 16px Arial, Helvatica, sans-serif;
+	width: 100%;
+	
+}
+}
+
+#principal{
+	width: 900px;
+}
+
+#menu{
+	background: #5945b5;
+	padding: 20px;
+}
+
+#texto{
+	background: #a199c7;
+	padding: 18px;
+	width: 100%;
+}
+
+#rodape{
+	color: #fffffc;
+	font-size: 1.2em;
+	
+}
+
+a{
+	color: black;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 10px;
+}
